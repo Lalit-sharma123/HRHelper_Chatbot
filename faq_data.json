@@ -1,0 +1,37 @@
+[
+    {
+        "question": "What is the company's leave policy?",
+        "answer": "Our company offers 15 days of paid time off (PTO) per year, 10 sick days, and unlimited unpaid leave with manager approval. Please refer to the employee handbook for full details.",
+        "keywords": ["leave", "policy", "PTO", "sick", "vacation"]
+    },
+    {
+        "question": "How do I request a salary advance?",
+        "answer": "To request a salary advance, please fill out the 'Salary Advance Request Form' available on the HR portal and submit it to your department head for approval. Once approved, HR will process the request.",
+        "keywords": ["salary", "advance", "request", "form"]
+    },
+    {
+        "question": "Where can I find information about employee benefits?",
+        "answer": "Details about all employee benefits, including health insurance, retirement plans, and wellness programs, are available on the 'Benefits' section of the HR portal. You can also contact the HR department for personalized assistance.",
+        "keywords": ["benefits", "health insurance", "retirement", "wellness"]
+    },
+    {
+        "question": "What is the process for reporting an IT issue?",
+        "answer": "To report an IT issue, please submit a ticket through the IT Helpdesk portal. For urgent issues, you can call the IT support line directly. The contact information is available on the company intranet.",
+        "keywords": ["IT", "issue", "report", "helpdesk", "technical"]
+    },
+    {
+        "question": "How do I update my personal information?",
+        "answer": "You can update your personal information, such as your address, phone number, or emergency contacts, through the 'My Profile' section of the HR portal. Please ensure your information is always up-to-date.",
+        "keywords": ["update", "personal information", "address", "contact"]
+    },
+    {
+        "question": "What is the policy on remote work?",
+        "answer": "Our remote work policy allows employees to work remotely up to two days a week, subject to team and manager approval. A formal request must be submitted via the HR portal. Please refer to the full policy document for more details.",
+        "keywords": ["remote work", "work from home", "WFH", "policy"]
+    },
+    {
+        "question": "How do I access my payslips?",
+        "answer": "Your payslips are available digitally through the employee self-service portal under the 'Payroll' section. You can view, download, and print your current and past payslips from there.",
+        "keywords": ["payslips", "payroll", "salary slip", "access"]
+    }
+]

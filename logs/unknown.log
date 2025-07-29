@@ -1,0 +1,5 @@
+def log_unknown_question(question):
+    os.makedirs('logs', exist_ok=True)
+    with open('logs/unknown.log', 'a') as f:
+        f.write(f"{datetime.now()}: {question}\n")2025-07-29 20:56:46.830229: hi
+2025-07-29 21:04:39.668177: what
