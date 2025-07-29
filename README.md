@@ -8,7 +8,7 @@ HRHelper is a simple chatbot that answers common HR questions through a web UI a
 - Simple Flask backend
 - Logs unknown queries
 - Web and Slack interfaces
-
+![image alt](https://github.com/Lalit-sharma123/HRHelper_Chatbot/blob/1655af874b997e7ebc8c42678f9a3c7d771ac828/Screenshot%202025-07-29%20231217.png)
 ## Setup
 ```bash
 pip install flask
